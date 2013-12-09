@@ -1,0 +1,15 @@
+﻿{
+  "name": "UrlMemo",
+  "version": "1.0",
+  "description": "UrlMemo",
+  "icons": {
+    "19" : "images/icon-19.png"
+  },
+  "browser_action": {
+    "default_icon": "images/icon-19.png",
+    "default_title": "UrlMemo",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2,
+  "permissions": ["tabs"]
+}
